@@ -1,0 +1,37 @@
+{
+  "name": "co-redis-memoizer",
+  "version": "0.1.0",
+  "description": "Memoize your generator functions to Redis!",
+  "engines": {
+    "node": ">=0.12",
+    "coffee-script": ">=1.9"
+  },
+  "dependencies": {
+    "coffee-script": ">=1.9",
+    "co-subredis": "0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javascriptismagic/co-redis-memoizer.git"
+  },
+  "keywords": [
+    "co",
+    "koa",
+    "memoize",
+    "memoizer",
+    "generator",
+    "function",
+    "yield",
+    "await",
+    "await",
+    "es6",
+    "es7",
+    "redis"
+  ],
+  "author": "Brian <javascriptismagic@gmail.com>",
+  "license": "Unliscense",
+  "bugs": {
+    "url": "https://github.com/javascriptismagic/co-redis-memoizer/issues"
+  },
+  "homepage": "https://github.com/javascriptismagic/co-redis-memoizer"
+}
