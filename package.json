@@ -7,8 +7,9 @@
     "coffee-script": ">=1.9"
   },
   "dependencies": {
+    "co-subredis": "0",
     "coffee-script": ">=1.9",
-    "co-subredis": "0"
+    "glob-to-regexp": "0"
   },
   "repository": {
     "type": "git",
